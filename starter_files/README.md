@@ -1,6 +1,3 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Udacity MLE Project: Operationalizing Machine Learning
 This repo provides a walkthrough of several key components and workflows of modern MLOps, namely: 
 1. Deployment of a trained model behind a web API for consumption by client applications
