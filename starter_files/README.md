@@ -35,7 +35,7 @@ This repo provides a walkthrough of several key components and workflows of mode
 
 
 ## Screen Recording
-See a video overview of this project at https://www.loom.com/share/5698d8093018442b8b9650aa120689f6
+See a video overview of this project [here](https://www.loom.com/share/5698d8093018442b8b9650aa120689f6).
 
 ## Future Directions and Next Steps
 1. Complete the loop in this architecture between the published pipeline and the deployed ML model by creating a CI/CD pipeline that redeploys the model to its web service endpoint whenever it has been retrained by a fresh execution of the pipeline. 
